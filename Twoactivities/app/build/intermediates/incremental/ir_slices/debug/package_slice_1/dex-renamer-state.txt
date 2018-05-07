@@ -1,0 +1,4 @@
+#Thu May 03 21:56:16 EEST 2018
+base.0=C\:\\Users\\rinal\\Downloads\\ToDoLite-Android-master\\Twoactivities\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+path.0=classes.dex
+renamed.0=classes.dex
