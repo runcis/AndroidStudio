@@ -1,6 +1,7 @@
 # AndroidStudio
 
-These are som small project i did following the tutorial from:
+These are some small projects i did following the tutorial from:
+
 https://developers.google.com/training/courses/android-fundamentals
 
 
